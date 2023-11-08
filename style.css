@@ -1,0 +1,26 @@
+*{
+    color: pink;
+}
+h1{
+    color: red;
+}
+
+#text1{
+    color: orange;
+}
+
+.text2{
+    color: yellow;
+}
+
+.text2.text3{
+    color: green;
+}
+
+.class1>p{
+    color: aqua;
+}
+
+.text4, .text5{
+    color: purple;
+}
